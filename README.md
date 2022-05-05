@@ -1,4 +1,4 @@
-# Range-Sum-Query---Immutable-PY
+# Range-Sum-Query-Immutable-PY
 Leetcode practice #303
 
 ## Built With
